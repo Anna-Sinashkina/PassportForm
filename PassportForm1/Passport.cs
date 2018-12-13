@@ -147,7 +147,7 @@ namespace PassportForm1
 
 
             }
-    formINN.ShowDialog(this);
+   formINN.ShowDialog(this);
             this.Close();
         }
 
